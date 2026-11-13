@@ -15,7 +15,7 @@ portfolio-site/
 
 ## Common edits
 
-- **Add your GitHub link:** open `js/script.js` and set `github` to your profile address, for example `"https://github.com/your-username"`. The GitHub card in the Contact section appears automatically.
+- **Change your GitHub link:** open `js/script.js` and edit `github` at the top. The GitHub card in the Contact section updates automatically.
 - **Update your resume:** replace `assets/Swetha_Maruthaiyan_Resume.pdf` with the new file and keep the same file name.
 - **Change colors or fonts:** edit the variables inside `:root` at the top of `css/style.css`.
 - **Edit text:** every section in `index.html` is marked with a comment such as `<!-- ============ SKILLS ============ -->`.

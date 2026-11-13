@@ -5,9 +5,8 @@
 
 /* ---------- Settings you can edit ---------- */
 const PROFILE = {
-  // Paste your GitHub profile address here, for example "https://github.com/your-username".
-  // The GitHub card in the Contact section stays hidden while this is empty.
-  github: ""
+  // Your GitHub profile address. The GitHub card in the Contact section is hidden if this is left empty.
+  github: "https://github.com/swethamaruthi18-cmyk"
 };
 
 (function () {
